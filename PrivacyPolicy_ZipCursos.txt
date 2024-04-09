@@ -1,0 +1,25 @@
+
+Privacy Policy for ZipCursos
+
+1. Introduction
+At ZipCursos, we are committed to protecting the privacy and security of our users. This Privacy Policy outlines the types of personal information we collect, how we use it, and the steps we take to ensure it is protected.
+
+2. Information We Collect
+The only personal information we collect from our users is their name, email address, and their Google profile photo. This information is collected only when a user voluntarily registers to use our app.
+
+3. Use of Information
+The personal information collected is solely used for the purpose of verifying attendance and managing user accounts within the app. We do not use this information for any other purpose, nor do we share it with any third parties.
+
+4. Data Protection
+We take the security of your personal information seriously and have implemented industry-standard measures to protect it from unauthorized access, alteration, or disclosure.
+
+5. User Rights
+Users have the right to access, correct, or delete their personal information at any time. If you wish to exercise these rights, please contact us through the app's support feature.
+
+6. Changes to This Policy
+We may update this Privacy Policy from time to time. Users will be notified of any significant changes and encouraged to review the updated policy.
+
+7. Contact Us
+If you have any questions or concerns about this Privacy Policy, please contact us through the app's support feature.
+
+Thank you for using ZipCursos.
